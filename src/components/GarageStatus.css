@@ -1,0 +1,23 @@
+.garage-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.garage-table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+.garage-table th,
+.garage-table td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
